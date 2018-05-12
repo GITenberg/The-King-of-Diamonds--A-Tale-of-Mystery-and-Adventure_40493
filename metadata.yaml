@@ -1,0 +1,29 @@
+_repo: The-King-of-Diamonds--A-Tale-of-Mystery-and-Adventure_40493
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40493-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tracy, Louis
+    alias: Holmes, Gordon
+    birthdate: 1863
+    deathdate: 1928
+    gutenberg_agent_id: '1627'
+    url: http://www.gutenberg.org/2009/agents/1627
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
+description: ''
+gutenberg_issued: '2012-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Fiction'
+title: 'The King of Diamonds: A Tale of Mystery and Adventure'
+url: http://www.gutenberg.org/ebooks/40493
